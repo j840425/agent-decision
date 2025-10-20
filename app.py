@@ -72,7 +72,7 @@ def questionnaire_page():
             for key, value in st.session_state.questionnaire_answers.items():
                 st.write(f"**{key}:** {value}")
         
-        if st.button("Ir al Análisis de Decisiones ", type="primary"):
+        if st.button("Ir al Análisis de Decisiones", type="primary"):
             # NUEVO: Marcar cuestionario como completado
             st.session_state.questionnaire_completed = True
             st.session_state.questionnaire_active = False
