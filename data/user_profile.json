@@ -1,0 +1,31 @@
+{
+  "created_at": "2025-10-19T20:35:50.046419",
+  "updated_at": "2025-10-19T20:35:50.046495",
+  "edad": 41,
+  "sexo": "hombre",
+  "estado_civil": "casado",
+  "numero_hijos": 2,
+  "ocupacion": null,
+  "ingreso_mensual": null,
+  "anos_experiencia": null,
+  "peso": null,
+  "altura": null,
+  "enfermedades": [],
+  "padres_vivos": null,
+  "preferencias_alimentacion": [],
+  "additional_context": {
+    "respuestas_originales": [
+      {
+        "pregunta": "¡Hola! Para empezar a conocerte, ¿cuál es tu edad y sexo?",
+        "respuesta": "Tengo 41 años y soy hombre"
+      },
+      {
+        "pregunta": "¡Entendido! Y en cuanto a tu situación personal, ¿cuál es tu estado civil? (soltero, casado, etc.)",
+        "respuesta": "Estoy casado con Erika. Tengo dos hijas de un anterior compromiso Avril de 19 años y Sheryl de 17 años"
+      }
+    ],
+    "additional_context": {
+      "contexto_0": "Está casado con Erika. Tiene dos hijas de un compromiso anterior: Avril de 19 años y Sheryl de 17 años."
+    }
+  }
+}
