@@ -309,7 +309,7 @@ def main():
         config.validate()
     except ValueError as e:
         st.error(f"❌ Error de configuración: {str(e)}")
-        st.info("Por favor, configura tu archivo .env con GOOGLE_CLOUD_PROJECT")
+        st.info("Por favor, configura tu archivo .env con GOOGLE_CLOUD_PROJECT correspondiente")
         st.stop()
     
     # Determinar qué página mostrar usando la bandera
