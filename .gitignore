@@ -3,3 +3,4 @@ data/user_profile.json
 .venv/
 __pycache__/
 .env
+.user
