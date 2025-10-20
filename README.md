@@ -96,7 +96,7 @@ La aplicación se abrirá automáticamente en `http://localhost:8501`
 |------------|-----------|---------|
 | Framework Web | Streamlit | 1.39.0 |
 | LLM Framework | LangChain | 0.3.7 |
-| LLM Engine | Google Vertex AI | Gemini 1.5 Flash |
+| LLM Engine | Google Vertex AI | gemini-2.5-pro |
 | Web Search | Tavily API | 0.3.3 |
 | Visualización | Plotly | 5.24.1 |
 | Validación | Pydantic | 2.9.2 |
