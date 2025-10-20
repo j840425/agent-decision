@@ -35,7 +35,7 @@ El sistema está organizado en capas modulares:
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/decision-agent.git
+git clone https://github.com/j840425/decision-agent.git
 cd decision-agent
 ```
 
